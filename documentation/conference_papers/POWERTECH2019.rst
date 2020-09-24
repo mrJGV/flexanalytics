@@ -51,7 +51,7 @@ In addition, the parameter :math:`\alpha` allows us to define the flexibility of
 In this work, we analyze the effect of the comfort settings and the structural parameters for different space heaters (water-based floor heater and HVAC), different degrees of flexibility of the users, and both strategies for the comfort bounds. As a consequence, the main results can be summarized as: 
 
 * Substantial cost savings can be achieved when increasing the comfort bounds
-* The more-price responsive the household is, the higher discomfort the occupants experience 
+* The more price-responsive the household is, the higher discomfort the occupants experience 
 * Price-dependent comfort bounds may help reduce the occupants' discomfort 
 
 If you want to find out more details about this work, please take a look at `[1]`_!
